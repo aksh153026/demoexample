@@ -1,4 +1,4 @@
-package jdbc;
+
 
 public class Sample {
 
